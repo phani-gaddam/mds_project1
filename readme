@@ -1,10 +1,10 @@
-## Question 3
+# Question 3
 To get the value of s from question 3, run q3.py this creates a new file computed_s.npy we will use this file to get x in the next question
 
-## Question 4
+# Question 4
 to get x run q4.py and after it has completed executing, run create_image.py to get generated_image.py that we got from y
 
-## Question 5
+# Question 5
 To generate the different R,G,B folders run create_data three times chnaging line 27 and line 65
 In line 27 use 0:Red,1:Green,2:Blue
 and in line 65 give folder name as Data_Red for red and give names of other folders accordingly
